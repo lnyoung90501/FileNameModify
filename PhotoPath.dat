@@ -1,0 +1,5 @@
+Path;D:\GoogleDrive\Photo Raw Storage\201803\31180307
+Mask;DSC-*.JPG;|Replace
+Mask;DSC-*.ARW;|Replace
+Replace;D|Replace at the position included in Mask statement.
+SubDir;Include
